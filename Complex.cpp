@@ -35,6 +35,6 @@ public:
     }
 private:
     //Не рекомендуется начинать название полей с нижнего подчёркивания.
-    double real,
+    double real;
     double imaginary;
 };
